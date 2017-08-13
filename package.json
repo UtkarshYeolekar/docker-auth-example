@@ -1,0 +1,18 @@
+{
+  "name": "dockerhubapi",
+  "version": "1.0.0",
+  "description": "docker hub api example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "utkarsh yeolekar",
+  "license": "ISC",
+  "dependencies": {
+    "docker-hub-api": "^0.5.1",
+    "lodash": "^4.17.4",
+    "ramda": "^0.24.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
