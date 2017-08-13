@@ -1,6 +1,6 @@
 # Authenticating to the docker hub using (username and password)
 
-This project is just the example on how we can authenticate with the docker hub using username and password.
+This project is just an example on, how we can authenticate with the docker hub using username and password.
 And then using the authentication token, how we can query the docker hub for getting  the private repository tags info.
 
 Generally, for accessing the public repository info, we dont need authentication. But for getting the private 
