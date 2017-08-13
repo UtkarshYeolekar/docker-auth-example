@@ -1,0 +1,17 @@
+# Authenticating to the docker hub using (username and password)
+
+This project is just the example on how we can authenticate with the docker hub using username and password
+and using the authentication token, we can query the docker hub for getting  the private repositoriey tags info.
+
+Generally, for accessing the public repository info, we dont need authentication. But for getting the private 
+repo info, we required authentication. 
+
+## Prerequisites 
+
+Afer cloning repository, do update your credentials of docker hub account and the private repository
+info into the config.js
+
+## Usage
+
+1. npm install
+2. node .
