@@ -14,4 +14,6 @@ info into the config.js
 ## Usage
 
 1. npm install
-2. node .
+2. Do update your docker hub account info (username and password) and the private repository name in the
+   config file.
+3. node .
